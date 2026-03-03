@@ -1,18 +1,18 @@
-\name{clustord-package}
-\alias{clustord-package}
-\alias{clustord}
+\name{clustordddd-package}
+\alias{clustordddd-package}
+\alias{clustordddd}
 \docType{package}
 \title{
-\packageTitle{clustord}
+\packageTitle{clustordddd}
 }
 \description{
-\packageDescription{clustord}
+\packageDescription{clustordddd}
 }
 \details{
 
 The DESCRIPTION file:
-\packageDESCRIPTION{clustord}
-\packageIndices{clustord}
+\packageDESCRIPTION{clustordddd}
+\packageIndices{clustordddd}
 The clustord package can perform row, column or biclustering on an ordinal or
 binary dataset, using one of three models: the Ordered Stereotype Model (OSM),
 the Proportional Odds Model (POM) or the Binary model (Binary). The package can
