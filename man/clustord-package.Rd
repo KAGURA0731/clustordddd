@@ -45,9 +45,9 @@ nominal categorical data.
 }
 
 \author{
-\packageAuthor{clustord}
+\packageAuthor{clustordddd}
 
-Maintainer: \packageMaintainer{clustord}
+Maintainer: \packageMaintainer{clustordddd}
 }
 \references{
 D. Fernández, R. Arnold, S. Pledger, I. Liu, & R. Costilla, "Finite mixture biclustering of discrete type multivariate data," Advances in Data Analysis and Classification, vol. 13(1), pp. 117-143, 2019.
