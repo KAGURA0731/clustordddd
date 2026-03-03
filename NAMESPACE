@@ -1,4 +1,4 @@
-useDynLib(clustord, .registration=TRUE)
+useDynLib(clustordddd, .registration=TRUE)
 importFrom(Rcpp, evalCpp)
 importFrom("stats","coef","kmeans","optim","optimHess","rgamma","runif")
 importFrom("utils","read.table","write.table")
